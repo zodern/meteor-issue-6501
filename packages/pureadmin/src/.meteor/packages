@@ -6,8 +6,6 @@
 
 accounts-password
 accounts-ui
-info
-pa:lib
 frozeman:template-var
 less
 zodern:nice-reload
